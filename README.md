@@ -143,7 +143,7 @@ flowchart LR
 
 ---
 
-## 🤖 Featured Project: Jarvis, AI Desktop Assistant
+## 🤖 Featured Project: AI Desktop Assistant
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Voice-Driven+Desktop+Automation;Local+LLM+Powered+Command+Understanding;Secure+Speaker+Verification;Session-Based+Continuous+Interaction" alt="Jarvis typing" />
