@@ -1,3 +1,25 @@
+---
+
+## My Profile
+
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gkalyan2006/Gkalyan2006/output/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gkalyan2006/Gkalyan2006/output/github-snake.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Gkalyan2006/Gkalyan2006/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%">
+</picture>
+
+</p>
 <!-- ANIMATED WAVE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=G%20Kalyan%20Chakravarthy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Automation&descAlignY=58&descSize=18" width="100%"/>
