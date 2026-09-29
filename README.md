@@ -1,4 +1,4 @@
----
+
 
 ## My Profile
 
@@ -243,28 +243,6 @@ flowchart LR
 
 Explored AI-based image detection and analysis systems: image processing, image classification, machine-learning based detection, model inference, and web-based AI interfaces.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gkalyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gkalyan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Gkalyan&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gkalyan/Gkalyan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gkalyan/Gkalyan/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Gkalyan/Gkalyan/output/github-snake-dark.svg" />
-  </picture>
-</p>
 
 ---
 
